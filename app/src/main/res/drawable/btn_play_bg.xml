@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--butona tıklandıgında resmi verilen degerle degiştir anlamındadır 2. görünüm-->
+    <item android:state_pressed="true" android:drawable="@drawable/play2"/>
+    <!-- default hali 1. görünüm -->
+    <item android:drawable="@drawable/play1"/>
+</selector>

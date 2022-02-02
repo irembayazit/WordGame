@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/irem/AndroidStudioProjects/WordProject/app/src/main/res/drawable/btn_exit_bg.xml" value="0.25625" />
+        <entry key="..\:/Users/irem/AndroidStudioProjects/WordProject/app/src/main/res/drawable/btn_guess_bg.xml" value="0.14739583333333334" />
+        <entry key="..\:/Users/irem/AndroidStudioProjects/WordProject/app/src/main/res/drawable/btn_letter_bg.xml" value="0.14739583333333334" />
+        <entry key="..\:/Users/irem/AndroidStudioProjects/WordProject/app/src/main/res/drawable/btn_play_bg.xml" value="0.14739583333333334" />
+        <entry key="..\:/Users/irem/AndroidStudioProjects/WordProject/app/src/main/res/drawable/btn_round_bg.xml" value="0.14739583333333334" />
+        <entry key="..\:/Users/irem/AndroidStudioProjects/WordProject/app/src/main/res/drawable/btn_round_bg_2.xml" value="0.14739583333333334" />
+        <entry key="..\:/Users/irem/AndroidStudioProjects/WordProject/app/src/main/res/drawable/btn_shop_bg.xml" value="0.14739583333333334" />
+        <entry key="..\:/Users/irem/AndroidStudioProjects/WordProject/app/src/main/res/drawable/ic_close.xml" value="0.14739583333333334" />
+        <entry key="..\:/Users/irem/AndroidStudioProjects/WordProject/app/src/main/res/drawable/ic_person.xml" value="0.14739583333333334" />
+        <entry key="..\:/Users/irem/AndroidStudioProjects/WordProject/app/src/main/res/drawable/ic_setting.xml" value="0.14739583333333334" />
+        <entry key="..\:/Users/irem/AndroidStudioProjects/WordProject/app/src/main/res/drawable/img_round_bg.xml" value="0.14739583333333334" />
+        <entry key="..\:/Users/irem/AndroidStudioProjects/WordProject/app/src/main/res/drawable/img_round_bg2.xml" value="0.14739583333333334" />
+        <entry key="..\:/Users/irem/AndroidStudioProjects/WordProject/app/src/main/res/drawable/linear_round_bg.xml" value="0.14739583333333334" />
+        <entry key="..\:/Users/irem/AndroidStudioProjects/WordProject/app/src/main/res/drawable/person.xml" value="0.2703125" />
+        <entry key="..\:/Users/irem/AndroidStudioProjects/WordProject/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/irem/AndroidStudioProjects/WordProject/app/src/main/res/layout/activity_play.xml" value="0.264" />
+        <entry key="..\:/Users/irem/AndroidStudioProjects/WordProject/app/src/main/res/layout/activity_shop.xml" value="0.23550724637681159" />
+        <entry key="..\:/Users/irem/AndroidStudioProjects/WordProject/app/src/main/res/layout/activity_shop_adapter.xml" value="0.2318840579710145" />
+        <entry key="..\:/Users/irem/AndroidStudioProjects/WordProject/app/src/main/res/layout/activity_siralama.xml" value="0.21693840579710144" />
+        <entry key="..\:/Users/irem/AndroidStudioProjects/WordProject/app/src/main/res/layout/activity_siralama_son.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/irem/AndroidStudioProjects/WordProject/app/src/main/res/layout/activity_splash_screen.xml" value="0.2318840579710145" />
+        <entry key="..\:/Users/irem/AndroidStudioProjects/WordProject/app/src/main/res/layout/custom_dialog_change_name.xml" value="0.22192028985507245" />
+        <entry key="..\:/Users/irem/AndroidStudioProjects/WordProject/app/src/main/res/layout/custom_dialog_get_heart.xml" value="0.22192028985507245" />
+        <entry key="..\:/Users/irem/AndroidStudioProjects/WordProject/app/src/main/res/layout/custom_dialog_settings.xml" value="0.22010869565217392" />
+        <entry key="..\:/Users/irem/AndroidStudioProjects/WordProject/app/src/main/res/layout/custom_dialog_shop.xml" value="0.264" />
+        <entry key="..\:/Users/irem/AndroidStudioProjects/WordProject/app/src/main/res/layout/custom_dialog_siralama.xml" value="0.264" />
+        <entry key="..\:/Users/irem/AndroidStudioProjects/WordProject/app/src/main/res/layout/custom_dialog_statistic_table.xml" value="0.264" />
+        <entry key="..\:/Users/irem/AndroidStudioProjects/WordProject/app/src/main/res/layout/list_siralama.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/irem/AndroidStudioProjects/WordProject/app/src/main/res/layout/shop_item.xml" value="0.22192028985507245" />
+        <entry key="..\:/Users/irem/AndroidStudioProjects/WordProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21666666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
